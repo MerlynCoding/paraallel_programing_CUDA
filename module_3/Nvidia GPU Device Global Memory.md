@@ -44,6 +44,3 @@ More global memory means:
 - **Look at memory types:** HBM2 is much faster but designed for GPU-specific tasks.
 - **Use global memory wisely:** More memory means handling larger data sets effectively.
 
----
-
-Feel free to let me know if this needs any more adjustments!
